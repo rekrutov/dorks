@@ -1,10 +1,10 @@
 
 ### operator
      ""    -   strict search             
-    \*     -   any text                  
+     *     -   any text                  
      .     -   any symbol                
-    \-     -   exclude word              
-    \..    -   range                     
+     -     -   exclude word              
+     ..    -   range                     
      |     -   logical OR                
      ()    -   group miltiple searches   
 
